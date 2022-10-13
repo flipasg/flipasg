@@ -17,6 +17,7 @@ I love challenges, technology and learning. I like to be part of the process of 
 ![Openlayers](https://img.shields.io/badge/-Openlayers-1f6b75?style=plastic&logo=openlayers&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=plastic&logo=leaflet&logoColor=white)
 ![Mapbox](https://img.shields.io/badge/-Mapbox-007afc?style=plastic&logo=Mapbox&logoColor=white)
+![DeckGL](https://img.shields.io/badge/-DeckGL-19202c?style=plastic&logo=webgl&logoColor=white)
 ### Tools
 ![VSCode](https://img.shields.io/badge/-VSCode-0098FF?style=plastic&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-A259FF?style=plastic&logo=figma&logoColor=white)
