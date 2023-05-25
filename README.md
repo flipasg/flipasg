@@ -35,8 +35,8 @@ const flipasg = {
   tools: ["VSCode", "Figma", "Notion"],
   job: {
     role: "Frontend Engineer",
-    team: "Professional Services",
-    company: "CARTO",
+    team: "Searching...",
+    company: "Searching...",
   },
   social: {
     blog: "https://silencioenlasala.com",
