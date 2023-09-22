@@ -30,13 +30,13 @@ I love challenges, technology and learning. I like to be part of the process of 
 ```js
 const flipasg = {
   pronouns: "he/him",
-  code: ["JavaScript", "HTML", "CSS", "Angular", "React"],
+  code: ["JavaScript", "HTML", "CSS", "Angular", "React", "Vue"],
   gis: ["Openlayers", "Mapbox", "Leaflet", "Deck.gl"],
   tools: ["VSCode", "Figma", "Notion"],
   job: {
     role: "Frontend Engineer",
-    team: "Searching...",
-    company: "Searching...",
+    team: "Software Team",
+    company: "Frenetic",
   },
   social: {
     blog: "https://silencioenlasala.com",
@@ -45,6 +45,8 @@ const flipasg = {
     twitter: "https://twitter.com/flipasg",
     pinterest: "https://pinterest.com/flipasgarcia",
     producthunt: "https://www.producthunt.com/@flipasg",
+    tiktok: "https://tiktok.com/@flipasg",
+    facebook: "https://www.facebook.com/ik3003"
   },
 };
 ```
